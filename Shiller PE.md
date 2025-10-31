@@ -1,4 +1,9 @@
-Le Ratio Shiller PE : Comprendre et Utiliser
+---
+layout: default
+title: Le Ratio Shiller PE : Comprendre et Utiliser
+---
+
+# Le Ratio Shiller PE : Comprendre et Utiliser
 
 ---
 
@@ -49,6 +54,7 @@ $$\text{Shiller } PE = \frac{\text{Prix de l'action}}{\text{Moyenne des bénéfi
 - [Données historiques du Shiller PE](https://www.multpl.com/shiller-pe)
 
 ---
+
 ```mermaid
 %%{init: {
   "theme": "base",
@@ -91,6 +97,3 @@ classDef ameriques fill:#FFD6C9,stroke:#FF8B6A,stroke-width:1px,color:#2E2E2E;  
 classDef europe fill:#CBE7FF,stroke:#7AC4FF,stroke-width:1px,color:#1A1A1A;     %% bleu céleste
 classDef asie fill:#D3F2D1,stroke:#79D57F,stroke-width:1px,color:#1A1A1A;       %% vert jade
 classDef oceanie fill:#E7D6FA,stroke:#B98DF2,stroke-width:1px,color:#2E2E2E;    %% lavande
-
-```
-
